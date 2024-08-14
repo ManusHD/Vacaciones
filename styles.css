@@ -1,0 +1,10 @@
+#mapid {
+    height: 1000px;
+}
+
+#botones{
+    z-index: 1000;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+}
